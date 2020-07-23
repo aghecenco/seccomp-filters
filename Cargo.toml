@@ -3,6 +3,8 @@ name = "seccomp-filters"
 version = "0.1.0"
 authors = ["Alexandra Iordache <alexandra.iordache.g@gmail.com>"]
 edition = "2018"
+description = "Placeholder for libseccomp-independent, Rust-native, seccomp crate."
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
