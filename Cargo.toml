@@ -1,6 +1,6 @@
 [package]
 name = "seccomp-filters"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Alexandra Iordache <alexandra.iordache.g@gmail.com>"]
 edition = "2018"
 description = "Placeholder for libseccomp-independent, Rust-native, seccomp crate."
